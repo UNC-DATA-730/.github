@@ -12,7 +12,7 @@ toolkits in Python and R like scikit-learn and tidymodels. Concepts covered in t
 
 Follow the links below for detailed course information and materials:
 
-- [Syllabus](https://github.com/UNC-DATA-730)
-- [Lecture notebooks](https://github.com/UNC-DATA-730)
-- [Assignments](https://github.com/UNC-DATA-730)
-- [Canvas](https://github.com/UNC-DATA-730)
+- [Syllabus](https://github.com/UNC-DATA-730/syllabus)
+- [Lecture notebooks](https://github.com/UNC-DATA-730/lecture-notebooks)
+- [Assignments](https://github.com/UNC-DATA-730/assignments)
+- [Canvas](https://digitalcampus.instructure.com/courses/10480)
