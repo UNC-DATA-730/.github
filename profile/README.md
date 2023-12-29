@@ -3,7 +3,7 @@
 This course will be coding oriented and cover the concepts underpinning and the applications of
 statistical modeling/inference. We will build models with real-world data and modern data science
 toolkits in Python and R like scikit-learn and tidymodels. Concepts covered in this course will include:
-Foundations in probability, including basic rules, Bayes’ formula, basic distributions
+- Foundations in probability, including basic rules, Bayes’ formula, basic distributions
 - Sampling and the central limit theorem
 - Bootstrapping, confidence intervals, hypothesis testing, multiple testing
 - Linear models, basic and multiple regression, inference for regression, regularization
