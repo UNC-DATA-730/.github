@@ -15,4 +15,4 @@ Follow the links below for detailed course information and materials:
 - [Syllabus](https://github.com/UNC-DATA-730/syllabus)
 - [Lecture notebooks](https://github.com/UNC-DATA-730/lecture-notebooks)
 - [Assignments](https://github.com/UNC-DATA-730/assignments)
-- [Canvas](https://digitalcampus.instructure.com/courses/10480)
+- [Canvas](https://digitalcampus.instructure.com/courses/22877)
