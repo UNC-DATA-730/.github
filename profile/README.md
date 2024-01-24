@@ -16,3 +16,5 @@ Follow the links below for detailed course information and materials:
 - [Lecture notebooks](https://github.com/UNC-DATA-730/lecture-notebooks)
 - [Assignments](https://github.com/UNC-DATA-730/assignments)
 - [Canvas](https://digitalcampus.instructure.com/courses/22877)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UNC-DATA-730/binder-repo/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FUNC-DATA-730%252Flecture-notebooks%26urlpath%3Dlab%252Ftree%252Flecture-notebooks%252F%26branch%3Dmain)
+
